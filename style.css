@@ -1,0 +1,454 @@
+.alart{
+    background-color: #316DC3;
+    height: 50px;
+}
+.facebook{
+    height:25px;
+    margin-left: 400px;
+    margin-top: 10px;
+    
+}
+.twiter{height:25px;
+    margin-top: 10px;
+}
+
+.insta{
+    height:25px;
+    margin-top: 10px;
+}
+.youtube{
+    height:25px;
+    margin-top: 10px;
+}
+.whatsapp{
+    height:25px;
+    margin-top: 10px;
+}
+.mil{
+    color: white;
+    display: inline;
+    margin-left: 120px;
+    top: 11px;
+    position: absolute;
+  
+}
+.ukdonor{
+    border-style: ridge;
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    border: 1px solid black;
+    padding: 0.15em;
+    font-size: 13px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    height: 25px;
+    margin-left: 50px;
+    margin-bottom: 5px ;
+    position: relative;
+    left: 700px;
+    top: 5px;
+
+}
+.donatenow{
+    border-style: ridge;
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    border: 1px solid black;
+    padding: 0.15em;
+    font-size: 13px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    height: 25px;
+    margin-left: 5px;
+    position: relative;
+    left: 700px;
+    top: 5px;
+}
+.smitr{
+    border-style: ridge;
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    border: 1px solid black;
+    padding: 0.15em;
+    font-size: 13px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    height: 25px;
+    position: relative;
+    left: 700px;
+    top: 5px;
+}
+.logo{
+      height:60px;
+      margin-left: 400px;
+}
+.log{
+    height: 80px;
+    
+}
+.home:hover{
+    background-color: #316DC3;
+    
+}
+
+.home{
+    color:black;
+    width: 80px;
+    height: 40px;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-size: 20px;
+    font-weight: normal;
+    font-style: normal;
+    font-variant: small-caps;
+    text-transform: lowercase;
+    padding: 8px; 
+    border-radius: 20px;
+     -moz-border-radius: 200px; 
+    -webkit-border-radius: 200px;
+    text-align: center;
+    border: none;
+    margin-left: 100px;
+    margin-top: 15px;
+    
+}
+.about:hover{
+    background-color: #316DC3;
+}
+.about{
+    color:black;
+    width: 80px;
+    height: 40px;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-size: 20px;
+    font-weight: normal;
+    font-style: normal;
+    font-variant: small-caps;
+    text-transform: lowercase;
+    padding: 0px; 
+    border-radius: 100px;
+     -moz-border-radius: 200px; 
+    -webkit-border-radius: 200px;
+    text-align: center;
+    border: none;
+}
+
+.service{
+    color:black;
+    width: 160px;
+    height: 40px;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-size: 20px;
+    font-weight: normal;
+    font-style: normal;
+    font-variant: small-caps;
+    text-transform: lowercase;
+    padding: 0px; 
+    border-radius: 100px;
+     -moz-border-radius: 200px; 
+    -webkit-border-radius: 200px;
+    text-align: center;
+    border: none;
+}
+.service:hover{
+    background-color: #316DC3;
+}
+.project{
+    color:black;
+    width: 160px;
+    height: 40px;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-size: 20px;
+    font-weight: normal;
+    font-style: normal;
+    font-variant: small-caps;
+    text-transform: lowercase;
+    padding: 0px; 
+    border-radius: 100px;
+    -moz-border-radius: 200px; 
+    -webkit-border-radius: 200px;
+    text-align: center;
+    border: none;
+}
+.project:hover{
+    background-color: #316DC3;
+}
+.media{
+    color:black;
+    width: 80px;
+    height: 40px;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-size: 20px;
+    font-weight: normal;
+    font-style: normal;
+    font-variant: small-caps;
+    text-transform: lowercase;
+    padding: 0px; 
+    border-radius: 100px;
+    -moz-border-radius: 200px; 
+    -webkit-border-radius: 200px;
+    border: none;
+    text-align: center ;
+    margin-top: 8px;
+
+}
+.media:hover{
+    background-color: #316DC3;
+}
+.news{
+    
+    color:black;
+    width: 80px;
+    height: 40px;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-size: 20px;
+    font-weight: normal;
+    font-style: normal;
+    font-variant: small-caps;
+    text-transform: lowercase;
+    padding: 0px; 
+    border-radius: 100px;
+    -moz-border-radius: 200px; 
+    -webkit-border-radius: 200px;
+    text-align: center;
+    border: none;
+}
+.news:hover{
+    background-color: #316DC3;
+}
+.donate{
+    color:black;
+    width: 90px;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-size: 20px;
+    font-weight: normal;
+    font-style: normal;
+    font-variant: small-caps;
+    text-transform: lowercase;
+    padding: 0px; 
+    border-radius: 100px;
+     -moz-border-radius: 200px; 
+    -webkit-border-radius: 200px;
+    text-align: center;
+    border: none;
+    height: 40px;
+    
+}
+.donate:hover{
+    background-color: #316DC3;
+}
+
+.int{
+    font-family:Cambria,Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+.ic{
+    margin-left: 850px ;
+}
+.intro{
+    background-color:rgb(250, 249, 249);
+}
+.par{
+    margin-left: 500px ;
+}
+.count{
+    background-color: rgb(70, 70, 252);
+    height: 250px; 
+}
+.plate{
+    margin-left: 510px;
+    margin-top: 50px;
+
+}
+.man{
+margin-left: 250px;
+margin-top: 50px;
+}
+.doc{
+    margin-left: 230px;
+    margin-top: 50px;
+}
+.hat{
+    margin-left: 270px; 
+    margin-top: 50px;
+}
+.hi{
+    color: white;
+   margin-left: 470px;
+   display: inline;
+   font-family: Georgia;
+}
+.hh{
+    color: white;
+    display: inline;
+    margin-left: 180px;
+    font-family: Georgia;
+}
+.ho{
+    color: white;
+    display: inline;
+    margin-left: 170px;
+    font-family: Georgia;
+}
+.hy{
+    color: white;
+    display: inline;
+    margin-left: 170px;
+    font-family: Georgia;
+}
+.pa{
+    color: white;
+    display: inline;
+    font-family: Georgia;
+    margin-left: 400px
+}
+.pb{
+    color: white;
+    display: inline;
+    font-family: Georgia;
+    margin-left: 80px
+}
+.pc{
+    color: white;
+    display: inline;
+    font-family: Georgia;
+    margin-left: 70px
+}
+.pd{
+    color: white;
+    display: inline;
+    font-family: Georgia;
+    margin-left: 110px
+}
+.we{
+    font-family:Cambria,Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+.what{
+    background-color:rgb(250, 249, 249);
+}
+.sadq{
+    margin-left: 400px;
+}
+.spn{
+    margin-left: 400px;
+}
+.msi{
+    font-family:Cambria,Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 400px;
+    line-height: 0px;
+    
+}
+.red{
+    margin-left:400px ;
+}
+.it{
+    margin-left: 400px;
+}
+.dash{
+    margin-left: 400px;
+    font-size: 30px;
+}
+.eve{
+    margin-top: 15px;
+  margin-left: 1180px;
+  line-height: 20px;
+  font-family:Cambria,Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.im{
+    font-family:Cambria,Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    font-weight: bold;
+}
+.gal{
+    margin-left: 870px ;
+}
+.k1{
+    margin-left: 370px;
+}
+.last{
+    
+    background-color:#25272e;
+    height: 350px;
+}
+.lst{
+    margin-left: 370px;
+    color: rgb(190, 184, 184);
+}
+.ls{
+    color: white;
+    margin-left: 750px;
+    margin-top: 30px;
+    
+}
+.us{
+    color: white;
+    display: inline;
+    font-family:Cambria,Cochin, Georgia, Times, 'Times New Roman', serif; 
+    font-weight: bold;  
+    margin-left: 20px;
+    
+}
+
+.kia{
+    background-color: #25272e;
+    display: inline-flex;
+}
+.cpy{
+     background-color: rgb(35, 113, 223);
+     color: white;
+     height: 40px;
+
+}
+.copy{
+    margin-left: 370px;
+    font-size: 12px;
+    position: relative;
+    top: 12px;
+}
+.h{
+display: inline;
+}
+.A{
+    display: inline;
+}
+.ser{
+    display: inline;
+}
+.pro{
+    display: inline;
+}
+.me{
+    display: inline;
+    position: absolute;
+    top: 60px;
+    
+}
+.sew{
+    display: inline;
+    margin-left: 80px;
+}
+.don{
+    display: inline;   
+}
+.hedline{
+    background-color: #316DC3;
+    height: 30px;
+}
+.allh{
+    margin-left: 100px;
+}
+.mar{
+    margin-left: 1190px;
+    
+}
+.smm{
+    margin-top: 100px;
+}
+.vee{
+    display: inline;
+    position: absolute;
+    top: 2260px;
+}
+.sah{
+    line-height: 0em;
+}
